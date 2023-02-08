@@ -1,6 +1,6 @@
 <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&width=435&lines=Hello+Fellow+%3C+Developers%2F+%3E!+;My+name+is+Huseyin;Welcome+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&width=435&lines=Hello+Fellow+%3C+Developers%2F+%3E!+;My+name+is+Huseyin;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 <p align='center'>
   
