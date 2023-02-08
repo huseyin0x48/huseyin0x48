@@ -1,13 +1,7 @@
-<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=F70E0E&height=30&lines=Hello+fellow+%3C+Developers+%2F%3E!;My+name+is+Huseyin.;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&width=435&lines=Hello+Fellow+%3C+Developers%2F+%3E!+;My+name+is+Huseyin;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
-
-<p align='center'>
-  
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=huseyin0x48.huseyin0x48)
-</p>
 
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px />
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -19,6 +13,11 @@
 - 🌱 I’m currently learning web architectures, network systems. 
 
 - 💬 Talk to me about web systems, cyber security. 
+
+
+
+  
+<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 200px />
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/huseyin0x48?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
