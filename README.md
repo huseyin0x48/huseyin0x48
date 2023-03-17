@@ -7,10 +7,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on web development.
+- 🔭 I’m currently working on web development and web security.
 
 
-- 🌱 I’m currently learning web architectures, network systems. 
+- 🌱 I’m currently learning web architectures, network systems and pentesting. 
 
 - 💬 Talk to me about web systems, cyber security. 
 
